@@ -4,6 +4,6 @@
 graph TD;
     user-->js;
     html-->browser;
-    B-->D;
-    C-->D;
+    user-->js;
+    js-->html;
 ```
