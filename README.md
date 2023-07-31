@@ -2,8 +2,8 @@
 
 ```mermaid
 graph TD;
-    A-->B;
-    A-->C;
+    user-->js;
+    html-->browser;
     B-->D;
     C-->D;
 ```
