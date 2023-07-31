@@ -2,7 +2,8 @@
 
 ```mermaid
 graph TD;
-    User clicks button--> Js code edits the html ;
-    Browser renders the updated HTML-->more books are now visible;
+    A-->B;
+    A-->C;
+    B-->D;
     C-->D;
 ```
